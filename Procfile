@@ -1,0 +1,1 @@
+web: streamlit run ui.py --server.port $PORT --server.address 10.0.0.2
