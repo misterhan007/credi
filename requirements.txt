@@ -2,7 +2,5 @@ streamlit
 pandas
 numpy
 pyodbc
-sklearn
+scikit-learn
 joblib
-StandardScaler
-LogisticRegression
